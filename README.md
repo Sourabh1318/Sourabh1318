@@ -8,7 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=sourabh1318&label=Profile%20views&color=0e75b6&style=flat" alt="sourabh1318" /> 
 </p>
 
-- 🌱 I’m currently learning **Advance Data Structures**
 
 - 📫 How to Reach Me: **sourabhtiwari13virat@gmail.com**
 
@@ -26,9 +25,6 @@
   </a>
   <a href="https://www.youtube.com/@18isenough" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="18 is enough" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/sourabh_1318" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sourabh_1318" height="30" width="40" />
   </a>
 </p>
 
