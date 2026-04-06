@@ -10,11 +10,9 @@
 
 - 🌱 I’m currently learning **Advance Data Structures**
 
-- 📝 I regularly solve problems on [LeetCode](https://leetcode.com/u/Sourabh_1318/)
-
 - 📫 How to Reach Me: **sourabhtiwari13virat@gmail.com**
 
-- 📄 My Resume: [View Resume](https://drive.google.com/file/d/1JvjTIqu2xtdAr-tuS7vbaXJXZ_laSYbF/view?usp=drivesdk)
+- 📄 My Resume: [View Resume](https://drive.google.com/file/d/11WiqoGouulqQWhMefZDPO6Lp7ULgUj58/view?usp=drivesdk)
 
 ---
 
