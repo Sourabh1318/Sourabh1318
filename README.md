@@ -11,7 +11,7 @@
 
 - 📫 How to Reach Me: **sourabhtiwari13virat@gmail.com**
 
-- 📄 My Resume: [View Resume](https://drive.google.com/file/d/1mvJvF19uS-C0apvVp2c5JPiDWgg1hm4r/view?usp=drivesdk)
+- 📄 My Resume: [View Resume](https://drive.google.com/file/d/1pQAE4Rig6k-pqXkahs4ehTiIGxEXapHH/view?usp=drivesdk)
 
 ---
 
